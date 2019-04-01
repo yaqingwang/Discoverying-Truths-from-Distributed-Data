@@ -7,7 +7,7 @@
   [Lu Su](https://cse.buffalo.edu/~lusu/),
  [Jing Gao](https://cse.buffalo.edu/~jing/)
  
- SUNY Buffalo. KDD, 2018.
+ SUNY Buffalo. ICDM, 2017.
  
 ## Files
  The __data__ folder contains the weather dataset. 
